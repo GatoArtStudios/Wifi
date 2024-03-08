@@ -3,6 +3,10 @@ import glob
 import threading
 import subprocess
 
+'''
+Los creditos recervados por @SoyGato_Hcc, no se hace responsable de uso inadecuado del codigo, se creo con fines educativos
+'''
+
 class Wifi():
     '''
     Esta clase tiene toda la configuracion para obtener las constraseñas de las redes wifi de un usuario de windows
