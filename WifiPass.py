@@ -74,4 +74,4 @@ class Wifi():
                 
 if __name__ == '__main__':
     app = Wifi()
-    app.run(path=r'C:\Temp')
+    app.run(path=r'C:\Temp') # recuerda coloca en 'C:\Temp' la ruta donde quieres que trabaje el script. hay se guarda el archivo MyPassword.txt con las claves y nombre de las redes
