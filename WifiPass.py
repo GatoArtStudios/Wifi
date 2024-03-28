@@ -4,7 +4,7 @@ import threading
 import subprocess
 
 '''
-Los creditos recervados por @SoyGato_Hcc, no se hace responsable de uso inadecuado del codigo, se creo con fines educativos
+Los creditos recervados por @GatoArtStudio, no se hace responsable de uso inadecuado del codigo, se creo con fines educativos
 '''
 
 class Wifi():
